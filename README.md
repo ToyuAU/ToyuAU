@@ -37,7 +37,8 @@ Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustw
 ## ⏱️ Coding activity (WakaTime)
 
 <div align="center">
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ToyuAU\&layout=compact)](https://wakatime.com/@ToyuAU)
+  
+[![wakatime](https://wakatime.com/badge/user/1806b7f5-8c4b-4bef-8017-eeb79d6ae24c.svg)](https://wakatime.com/@1806b7f5-8c4b-4bef-8017-eeb79d6ae24c)
 
 </div>
 
