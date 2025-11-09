@@ -28,15 +28,11 @@ Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustw
 
 ## 🎧 Now playing
 
-[![Spotify - Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=baylinjm\&cover_image=true\&theme=default\&show_offline=false\&background_color=ffffff\&interchange=false\&bar_color=53b14f)](https://open.spotify.com/user/baylinjm)
-
-> Replace `YOUR_SPOTIFY_UID` with your Spotify user ID. You can find it in your Spotify profile URL.
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=baylinjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## ⏱️ Coding activity (WakaTime)
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ToyuAU\&layout=compact)](https://wakatime.com/@ToyuAU)
-
-> If your WakaTime username isn't `ToyuAU`, change the `username` above and the profile link accordingly.
 
 ## 📈 By the numbers
 
