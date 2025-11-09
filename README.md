@@ -28,11 +28,18 @@ Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustw
 
 ## 🎧 Now playing
 
+<div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=baylinjm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 ## ⏱️ Coding activity (WakaTime)
 
+<div align="center">
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ToyuAU\&layout=compact)](https://wakatime.com/@ToyuAU)
+
+</div>
 
 ## 📈 By the numbers
 
