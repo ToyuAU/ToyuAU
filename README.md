@@ -4,7 +4,7 @@
 
 # Hi, I'm **Baylin** 🖐️
 
-Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustworthy software for businesses in Australia.
+Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustworthy websites & software for businesses in Australia.
 
 [![Website](https://img.shields.io/badge/Website-orlia.com.au-informational?logo=google-chrome)](https://www.orlia.com.au/)
 [![GitHub followers](https://img.shields.io/github/followers/ToyuAU?style=social)](https://github.com/ToyuAU)
@@ -13,12 +13,6 @@ Founder at **[orlia](https://www.orlia.com.au/)** - crafting clear, fast, trustw
 </div>
 
 ---
-
-## 🚀 What I'm working on
-
-* Building product experiences at **orlia** with a single, shared design system across tools.
-* Exploring small, sharp utilities and bots that solve real problems quickly.
-
 ## 🧰 Tech I use (and enjoy)
 
 * **Languages:** Python, JavaScript/TypeScript
