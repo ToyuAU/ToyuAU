@@ -59,16 +59,6 @@ I'm particularly interested in moving AI beyond chat and into systems that can a
 
 </div>
 
-## 📈 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ToyuAU&show_icons=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToyuAU&layout=compact)
-
-</div>
-
 ## 💬 Get in touch
 
 - 💼 **Deployed AI:** [deployedai.com.au](https://deployedai.com.au/)
